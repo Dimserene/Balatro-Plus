@@ -136,7 +136,6 @@ BalatroPlus.load("tag")("tags", {
   "booster",
   "bounty",
 
-  "enhanced",
   "mysthic",
   "burning",
   "symbolic",
